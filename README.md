@@ -7,6 +7,8 @@ git clone https://github.com/deeimos/MoviesApp.git
 cd MoviesApp
 ```
 
+### 2. Запуск проекта
+
 Значение для .env указанно в .env.default
 
 ```bash
